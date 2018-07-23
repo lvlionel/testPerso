@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Version 0.0.1 - Jul/20011
-#
+# cec test deix
 
 netstat=`which netstat 2>/dev/null`
 
